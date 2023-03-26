@@ -15,9 +15,9 @@ Your task is to create a Python script that analyzes the records to calculate ea
 
 * The greatest decrease in profits (date and amount) over the entire period
 
-<p align="center">
+
 <img src="https://github.com/tlacher1/python_challenge/blob/d7d468add076c0b7058d2155d4bb1aad653a1f20/python-challenge/PyBank/Py%20Bank%20Results.png" />
-</p>
+
 
 
 # Py Poll Challenge
@@ -37,6 +37,6 @@ You will be given a set of poll data called election_data.csv. The dataset is co
 
 * The winner of the election based on popular vote
 
-<p align="center">
+
 <img src="https://github.com/tlacher1/python_challenge/blob/d7d468add076c0b7058d2155d4bb1aad653a1f20/python-challenge/PyPoll/Py%20Poll%20results.png" />
-</p>
+
